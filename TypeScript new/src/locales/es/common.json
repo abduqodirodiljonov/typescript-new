@@ -1,0 +1,42 @@
+{
+  "brand": "Simple",
+  "nav_home": "Inicio",
+  "nav_catalog": "Catálogo",
+  "nav_test": "Prueba",
+  "nav_about": "Acerca de",
+  "login": "Iniciar sesión",
+  "select_language": "Seleccionar idioma:",
+  "actions": {
+    "save": "Guardar",
+    "saving": "Guardando...",
+    "cancel": "Cancelar",
+    "close": "Cerrar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "refresh": "Actualizar",
+    "back": "Atrás",
+    "forward": "Adelante",
+    "first_page": "Primera página",
+    "last_page": "Última página",
+    "reset_filters": "Restablecer filtros",
+    "retry": "Reintentar",
+    "add": "Agregar",
+    "adding": "Agregando…"
+  },
+  "pagination": {
+    "show_by": "Mostrar por:",
+    "per_page": "Por página:",
+    "showing_range": "Mostrando {{start}}–{{end}} de {{total}} productos",
+    "aria_nav": "Páginas de la tabla",
+    "prev": "Anterior",
+    "next": "Siguiente"
+  },
+  "status": {
+    "loading": "Cargando...",
+    "loading_data": "Cargando datos…",
+    "empty": "Por ahora está vacío.",
+    "in_stock": "En stock",
+    "error": "Ocurrió un error"
+  },
+  "currency": "€"
+}

@@ -1,0 +1,72 @@
+{
+  "badge": "Base de datos de productos · TanStack Query",
+  "title": "Gestión de productos",
+  "subtitle": "Tabla interactiva con búsqueda, ordenación rápida, paginación y tarjetas de datos.",
+  "stats": {
+    "total_items": "Total de artículos",
+    "avg_price": "Precio promedio",
+    "source": "Fuente",
+    "source_fallback": "Datos locales",
+    "source_demo": "Modo demostración",
+    "source_api": "API: localhost:5000"
+  },
+  "server_offline": {
+    "title": "El servidor http://localhost:5000 no está disponible temporalmente",
+    "desc_prefix": "Puede ejecutar",
+    "desc_suffix": "o cambiar a los datos de demostración integrados.",
+    "show_demo": "Mostrar productos de demostración",
+    "retry": "Reintentar solicitud"
+  },
+  "search": {
+    "placeholder": "Buscar por nombre, número o descripción...",
+    "clear": "Limpiar búsqueda"
+  },
+  "sort": {
+    "label": "Ordenar por:",
+    "default": "Por defecto",
+    "price_asc": "Precio: menor a mayor",
+    "price_desc": "Precio: mayor a menor",
+    "name_asc": "Nombre: A–Z",
+    "name_desc": "Nombre: Z–A"
+  },
+  "refresh": "Actualizar",
+  "refresh_title": "Actualizar datos",
+  "empty": {
+    "title": "No se encontraron productos",
+    "desc": "No se encontró nada para «{{query}}». Intente cambiar los parámetros de búsqueda.",
+    "reset": "Restablecer filtros"
+  },
+  "table": {
+    "id": "ID",
+    "product": "Producto",
+    "description": "Descripción",
+    "date": "Fecha",
+    "status": "Estado",
+    "price": "Precio",
+    "actions": "Acciones",
+    "copy_id": "Copiar ID",
+    "no_description": "Sin descripción",
+    "in_stock": "En stock",
+    "quick_view": "Vista rápida",
+    "price_sort_title": "Haga clic para ordenar por precio"
+  },
+  "pagination": {
+    "showing": "Mostrando",
+    "of": "de",
+    "products": "productos",
+    "on_page": "Por página:",
+    "aria_label": "Páginas de la tabla",
+    "first": "Primera página",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "last": "Última página"
+  },
+  "quick_view": {
+    "title": "Vista rápida",
+    "close": "Cerrar",
+    "in_stock": "En stock",
+    "description_heading": "Descripción",
+    "no_description": "Aún no se ha añadido una descripción detallada para este producto.",
+    "added_at": "Añadido al catálogo:"
+  }
+}

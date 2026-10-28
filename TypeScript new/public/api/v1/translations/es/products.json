@@ -1,0 +1,40 @@
+{
+  "collection_title": "Tu colección",
+  "preview_title": "Vista previa de la colección",
+  "form": {
+    "title_placeholder": "Nombre",
+    "title_aria": "Nombre del producto",
+    "price_placeholder": "Precio",
+    "price_aria": "Precio del producto",
+    "submit": "Agregar",
+    "submitting": "Agregando…"
+  },
+  "messages": {
+    "added": "Agregado",
+    "add_error": "No se pudo agregar el producto",
+    "deleted": "Eliminado",
+    "delete_error": "No se pudo eliminar el producto",
+    "validation_error": "Ingrese el nombre y un precio válido",
+    "loading": "Cargando datos…",
+    "server_error": "No se pudieron cargar los datos. Verifique si json-server está en ejecución.",
+    "empty": "Por ahora está vacío."
+  },
+  "aria": {
+    "edit_item": "Editar {{title}}",
+    "delete_item": "Eliminar {{title}}"
+  },
+  "modal": {
+    "title": "Editar",
+    "close": "Cerrar",
+    "name_label": "Nombre",
+    "price_label": "Precio",
+    "description_label": "Descripción",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "saving": "Guardando...",
+    "success": "Éxito",
+    "product_updated": "Producto actualizado",
+    "update_error": "Error al actualizar",
+    "update_fail": "No se pudo actualizar"
+  }
+}

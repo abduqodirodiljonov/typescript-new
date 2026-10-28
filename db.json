@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": "6oLAkw_I2NE",
+      "title": "Abduqodir",
+      "price": 1000000
+    },
+    {
+      "id": "aU0CY7OYfJQ",
+      "title": "Salon",
+      "price": 1000
+    },
+    {
+      "title": "Test",
+      "price": 22222,
+      "id": "isbpFDMpf5E"
+    },
+    {
+      "title": "zadachs",
+      "price": 2222,
+      "id": "6R2s5un4adQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

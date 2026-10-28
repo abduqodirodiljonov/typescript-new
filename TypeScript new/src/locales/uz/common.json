@@ -1,0 +1,42 @@
+{
+  "brand": "Simple",
+  "nav_home": "Bosh sahifa",
+  "nav_catalog": "Katalog",
+  "nav_test": "Test",
+  "nav_about": "Biz haqimizda",
+  "login": "Kirish",
+  "select_language": "Tilni tanlang:",
+  "actions": {
+    "save": "Saqlash",
+    "saving": "Saqlanmoqda...",
+    "cancel": "Bekor qilish",
+    "close": "Yopish",
+    "edit": "Tahrirlash",
+    "delete": "O'chirish",
+    "refresh": "Yangilash",
+    "back": "Orqaga",
+    "forward": "Oldinga",
+    "first_page": "Birinchi sahifa",
+    "last_page": "Oxirgi sahifa",
+    "reset_filters": "Filtrlarni tozalash",
+    "retry": "Qayta urinish",
+    "add": "Qo'shish",
+    "adding": "Qo'shilmoqda…"
+  },
+  "pagination": {
+    "show_by": "Ko'rsatish:",
+    "per_page": "Sahifada:",
+    "showing_range": "{{total}} ta mahsulotdan {{start}}–{{end}} ko'rsatilmoqda",
+    "aria_nav": "Jadval sahifalari",
+    "prev": "Oldingi",
+    "next": "Keyingi"
+  },
+  "status": {
+    "loading": "Yuklanmoqda...",
+    "loading_data": "Ma'lumotlar yuklanmoqda…",
+    "empty": "Hozircha bu yerda bo'sh.",
+    "in_stock": "Mavjud",
+    "error": "Xatolik yuz berdi"
+  },
+  "currency": "so'm"
+}

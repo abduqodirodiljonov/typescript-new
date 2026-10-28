@@ -1,0 +1,654 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Беспроводные наушники SoundPro Max",
+      "description": "Полноразмерные наушники с активным шумоподавлением, поддержкой Hi-Res Audio и автономностью до 40 часов.",
+      "price": "14990",
+      "images": [
+        {
+          "id": 101,
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-10T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Смарт-часы Nova Horizon 2",
+      "description": "Умные часы с AMOLED-дисплеем, мониторингом сердечного ритма, GPS-трекером и защитой от воды 5 ATM.",
+      "price": "11990",
+      "images": [
+        {
+          "id": 102,
+          "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-11T11:15:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Механическая клавиатура KeyCraft Pro RGB",
+      "description": "Компактная клавиатура формата 75% с тактильными переключателями, RGB-подсветкой и горячей заменой свитчей.",
+      "price": "8490",
+      "images": [
+        {
+          "id": 103,
+          "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-12T09:30:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Беспроводная мышь Ergonomic Glide",
+      "description": "Эргономичная мышь с оптическим сенсором 16000 DPI, бесшумным кликом и аккумулятором на 70 дней работы.",
+      "price": "3990",
+      "images": [
+        {
+          "id": 104,
+          "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-13T14:20:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Портативная Bluetooth-колонка PulseWave",
+      "description": "Мощный стереозвук 30 Вт с глубокими басами, защитой IPX7 и светодиодной подсветкой в такт музыке.",
+      "price": "5490",
+      "images": [
+        {
+          "id": 105,
+          "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-14T16:00:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Ультрабук AirLite Pro 14\"",
+      "description": "Легкий и производительный ноутбук в алюминиевом корпусе с экраном 2.8K, процессором 8 ядер и 16 ГБ RAM.",
+      "price": "79990",
+      "images": [
+        {
+          "id": 106,
+          "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-15T12:00:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Игровой монитор VisionMax 27\" 165Hz",
+      "description": "IPS-монитор с разрешением 2K QHD, частотой 165 Гц, временем отклика 1 мс и поддержкой HDR400.",
+      "price": "24990",
+      "images": [
+        {
+          "id": 107,
+          "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-16T15:45:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Внешний аккумулятор TitanPower 20000mAh",
+      "description": "Пауэрбанк с быстрой зарядкой Power Delivery 65 Вт для смартфонов, планшетов и ноутбуков.",
+      "price": "3490",
+      "images": [
+        {
+          "id": 108,
+          "image": "https://images.unsplash.com/photo-1609592426507-b67362a98f12?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-17T08:10:00Z"
+    },
+    {
+      "id": 9,
+      "name": "Кофейная станция Barista Touch",
+      "description": "Автоматическая кофемашина с сенсорным управлением, встроенной кофемолкой и автокапучинатором.",
+      "price": "46990",
+      "images": [
+        {
+          "id": 109,
+          "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-18T10:40:00Z"
+    },
+    {
+      "id": 10,
+      "name": "Робот-пылесос CleanBot Laser AI",
+      "description": "Умный робот-пылесос с лазерной навигацией LiDAR, влажной уборкой и станцией самоочистки.",
+      "price": "31990",
+      "images": [
+        {
+          "id": 110,
+          "image": "https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-19T13:00:00Z"
+    },
+    {
+      "id": 11,
+      "name": "Увлажнитель воздуха PureBreeze Ultrasonic",
+      "description": "Ультразвуковой увлажнитель с функцией ароматизации, бесшумным ночным режимом и баком на 4.5 л.",
+      "price": "4290",
+      "images": [
+        {
+          "id": 111,
+          "image": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-20T17:25:00Z"
+    },
+    {
+      "id": 12,
+      "name": "Стационарный блендер PowerBlend 1200W",
+      "description": "Мощный блендер со стеклянной чашей 1.8 л, 6 стальными лезвиями и режимом колки льда.",
+      "price": "6790",
+      "images": [
+        {
+          "id": 112,
+          "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-21T18:15:00Z"
+    },
+    {
+      "id": 13,
+      "name": "Электрический чайник ThermoGlass Smart",
+      "description": "Стеклянный чайник с выбором температуры от 40 до 100°C, подсветкой и поддержкой управления через телефон.",
+      "price": "3690",
+      "images": [
+        {
+          "id": 113,
+          "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-22T07:50:00Z"
+    },
+    {
+      "id": 14,
+      "name": "Настольная лампа GlowStudy LED",
+      "description": "Лампа с плавной регулировкой яркости, тремя режимами цветовой температуры и беспроводной зарядкой смартфона.",
+      "price": "2890",
+      "images": [
+        {
+          "id": 114,
+          "image": "https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-23T11:05:00Z"
+    },
+    {
+      "id": 15,
+      "name": "Худи оверсайз Urban Cotton",
+      "description": "Плотный хлопковый худи свободного кроя с мягким начесом и глубоким капюшоном.",
+      "price": "4490",
+      "images": [
+        {
+          "id": 115,
+          "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-24T14:30:00Z"
+    },
+    {
+      "id": 16,
+      "name": "Кроссовки AeroStride Runner",
+      "description": "Легкие беговые кроссовки с дышащим сетчатым верхом и амортизирующей подошвой из пены EVA.",
+      "price": "7990",
+      "images": [
+        {
+          "id": 116,
+          "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-25T16:40:00Z"
+    },
+    {
+      "id": 17,
+      "name": "Городской рюкзак CityPack Shield",
+      "description": "Влагозащищенный рюкзак с отделением для ноутбука 15.6\", скрытыми карманами антивор и USB-портом.",
+      "price": "4990",
+      "images": [
+        {
+          "id": 117,
+          "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-26T09:15:00Z"
+    },
+    {
+      "id": 18,
+      "name": "Солнцезащитные очки Classic Aviator",
+      "description": "Классические очки-авиаторы с поляризационными линзами и прочной металлической оправой UV400.",
+      "price": "3200",
+      "images": [
+        {
+          "id": 118,
+          "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-27T12:00:00Z"
+    },
+    {
+      "id": 19,
+      "name": "Кожаный кошелек Minimalist Slim",
+      "description": "Тонкий картхолдер из натуральной кожи с защитой от считывания карт RFID.",
+      "price": "2190",
+      "images": [
+        {
+          "id": 119,
+          "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-28T15:10:00Z"
+    },
+    {
+      "id": 20,
+      "name": "Мужские наручные часы Chrono Heritage",
+      "description": "Кварцевый хронограф с сапфировым стеклом, водозащитой 100м и ремешком из натуральной кожи.",
+      "price": "18990",
+      "images": [
+        {
+          "id": 120,
+          "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-29T10:20:00Z"
+    },
+    {
+      "id": 21,
+      "name": "Коврик для йоги BalancePro Grip",
+      "description": "Нескользящий экологичный коврик из каучука толщиной 6 мм с разметкой для идеальной центровки.",
+      "price": "2990",
+      "images": [
+        {
+          "id": 121,
+          "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-30T13:45:00Z"
+    },
+    {
+      "id": 22,
+      "name": "Складной термос ThermoSteel 1L",
+      "description": "Вакуумный термос из нержавеющей стали, сохраняющий тепло и холод до 24 часов.",
+      "price": "1990",
+      "images": [
+        {
+          "id": 122,
+          "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-01-31T08:30:00Z"
+    },
+    {
+      "id": 23,
+      "name": "Набор регулируемых гантелей FlexFit 20kg",
+      "description": "Удобный набор наборных гантелей с обрезиненными дисками и надежными замками-фиксаторами.",
+      "price": "6490",
+      "images": [
+        {
+          "id": 123,
+          "image": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-01T17:00:00Z"
+    },
+    {
+      "id": 24,
+      "name": "Электрическая звуковая зубная щетка SonicCare X",
+      "description": "Зубная щетка с 40 000 пульсаций в минуту, 4 режимами чистки, таймером и чехлом с беспроводной зарядкой.",
+      "price": "4590",
+      "images": [
+        {
+          "id": 124,
+          "image": "https://images.unsplash.com/photo-1559591937-e1032b4b4e99?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-02T19:20:00Z"
+    },
+    {
+      "id": 25,
+      "name": "Ионизирующий фен для волос SilkAir Ionic",
+      "description": "Профессиональный фен с бесколлекторным двигателем, магнитной насадкой и функцией ионизации для блеска волос.",
+      "price": "8990",
+      "images": [
+        {
+          "id": 125,
+          "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-03T11:40:00Z"
+    },
+    {
+      "id": 26,
+      "name": "Универсальный триммер PrecisionCut 7-in-1",
+      "description": "Водонепроницаемый триммер для бороды и волос с титановыми лезвиями и автономностью до 120 минут.",
+      "price": "3790",
+      "images": [
+        {
+          "id": 126,
+          "image": "https://images.unsplash.com/photo-1621607512214-68297480165e?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-04T14:15:00Z"
+    },
+    {
+      "id": 27,
+      "name": "Парфюмерная вода Cedar & Bergamot 100ml",
+      "description": "Селективный древесно-цитрусовый аромат с нотами бергамота, кедрового дерева, ветивера и белого мускуса.",
+      "price": "9200",
+      "images": [
+        {
+          "id": 127,
+          "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-05T16:50:00Z"
+    },
+    {
+      "id": 28,
+      "name": "Кожаный ежедневник Executive Planner",
+      "description": "Ежедневник ручной работы в мягкой обложке из итальянской кожи с бумагой цвета слоновой кости плотностью 100 г/м².",
+      "price": "1850",
+      "images": [
+        {
+          "id": 128,
+          "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-06T09:00:00Z"
+    },
+    {
+      "id": 29,
+      "name": "Перьевая ручка Grand Classic Gold",
+      "description": "Элегантная перьевая ручка с позолоченным пером, латунным корпусом и картриджем в подарочном футляре.",
+      "price": "2700",
+      "images": [
+        {
+          "id": 129,
+          "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-07T12:20:00Z"
+    },
+    {
+      "id": 30,
+      "name": "Ароматическая свеча Sandalwood & Amber",
+      "description": "Свеча из 100% соевого воска с деревянным фитилем, потрескивающим при горении, время горения до 45 часов.",
+      "price": "1450",
+      "images": [
+        {
+          "id": 130,
+          "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-08T15:35:00Z"
+    },
+    {
+      "id": 31,
+      "name": "Керамическая кружка ручной работы ClayArt",
+      "description": "Авторская кружка объемом 380 мл с фактурной глазурью и удобной ручкой, создана на гончарном круге.",
+      "price": "1190",
+      "images": [
+        {
+          "id": 131,
+          "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-09T08:45:00Z"
+    },
+    {
+      "id": 32,
+      "name": "Вязаный шерстяной плед Nordic Warmth",
+      "description": "Мягкий и теплый плед крупной вязки из мериносовой шерсти размером 150x200 см.",
+      "price": "5890",
+      "images": [
+        {
+          "id": 132,
+          "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-10T14:10:00Z"
+    },
+    {
+      "id": 33,
+      "name": "Смартфон Stellar One 256GB",
+      "description": "Флагманский смартфон с OLED-экраном 120 Гц, тройной камерой 50 Мп с оптической стабилизацией и батареей 5000 мАч.",
+      "price": "59990",
+      "images": [
+        {
+          "id": 133,
+          "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-11T10:00:00Z"
+    },
+    {
+      "id": 34,
+      "name": "Планшет PaperScreen 11\" Pro",
+      "description": "Универсальный планшет для рисования и работы со стилусом в комплекте и 8 динамиками с Dolby Atmos.",
+      "price": "42990",
+      "images": [
+        {
+          "id": 134,
+          "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-12T13:30:00Z"
+    },
+    {
+      "id": 35,
+      "name": "Экшн-камера AdventureCam 4K 60FPS",
+      "description": "Ультракомпактная экшн-камера с 6-осевой стабилизацией RockSteady, водонепроницаемостью до 15м и двумя экранами.",
+      "price": "19490",
+      "images": [
+        {
+          "id": 135,
+          "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-13T17:15:00Z"
+    },
+    {
+      "id": 36,
+      "name": "Игровая приставка PocketRetro Max",
+      "description": "Портативная игровая консоль с ярким IPS-дисплеем 5.5\", поддержкой 20+ эмуляторов и емким аккумулятором.",
+      "price": "6990",
+      "images": [
+        {
+          "id": 136,
+          "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-14T11:20:00Z"
+    },
+    {
+      "id": 37,
+      "name": "Настольный микрофон StudioVoice USB",
+      "description": "Конденсаторный кардиоидный микрофон для стримов, подкастов и вокала с регулировкой чувствительности и кнопкой Mute.",
+      "price": "5290",
+      "images": [
+        {
+          "id": 137,
+          "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-15T15:05:00Z"
+    },
+    {
+      "id": 38,
+      "name": "Студийный свет RingLight 18\" со штативом",
+      "description": "Кольцевая светодиодная лампа диаметром 45 см с пультом ДУ, креплением для телефона и плавной регулировкой тепла.",
+      "price": "3890",
+      "images": [
+        {
+          "id": 138,
+          "image": "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-16T09:40:00Z"
+    },
+    {
+      "id": 39,
+      "name": "Графический планшет DrawMaster Pen 10",
+      "description": "Тонкий графический планшет с 8192 уровнями нажатия пера без батареек и 8 горячими программируемыми клавишами.",
+      "price": "7490",
+      "images": [
+        {
+          "id": 139,
+          "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-17T12:55:00Z"
+    },
+    {
+      "id": 40,
+      "name": "Электросамокат CityRider Neo 350W",
+      "description": "Городской электросамокат со складным механизмом, скоростью до 25 км/ч и запасом хода до 30 км на одном заряде.",
+      "price": "27990",
+      "images": [
+        {
+          "id": 140,
+          "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-18T16:10:00Z"
+    },
+    {
+      "id": 41,
+      "name": "Кемпинговая палатка TrailDome 3-местная",
+      "description": "Двухслойная всесезонная палатка с защитой от дождя 4000 мм, быстрой сборкой и двумя вентиляционными окнами.",
+      "price": "9490",
+      "images": [
+        {
+          "id": 141,
+          "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-19T08:00:00Z"
+    },
+    {
+      "id": 42,
+      "name": "Спальный мешок ComfortRest -5°C",
+      "description": "Теплый спальник-кокон с наполнителем из полого микроволокна и водоотталкивающим внешним покрытием.",
+      "price": "3690",
+      "images": [
+        {
+          "id": 142,
+          "image": "https://images.unsplash.com/photo-1510312305653-8ed496efae75?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-20T11:25:00Z"
+    },
+    {
+      "id": 43,
+      "name": "Набор кухонных ножей ChefMaster Pro (6 предметов)",
+      "description": "Японская нержавеющая сталь высокой твердости с эргономичными деревянными ручками и магнитной подставкой.",
+      "price": "12490",
+      "images": [
+        {
+          "id": 143,
+          "image": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-21T14:40:00Z"
+    },
+    {
+      "id": 44,
+      "name": "Чугунная сковорода-гриль Heritage Iron 28cm",
+      "description": "Долговечная чугунная сковорода с ребристым дном и съемной ручкой, подходящая для всех типов плит и духовки.",
+      "price": "3990",
+      "images": [
+        {
+          "id": 144,
+          "image": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-22T17:50:00Z"
+    },
+    {
+      "id": 45,
+      "name": "Деревянная разделочная доска из дуба SolidOak",
+      "description": "Торцевая разделочная доска из кавказского дуба, пропитанная минеральным маслом и натуральным пчелиным воском.",
+      "price": "2890",
+      "images": [
+        {
+          "id": 145,
+          "image": "https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-23T10:15:00Z"
+    },
+    {
+      "id": 46,
+      "name": "Беспроводное зарядное устройство MagCharge 3-in-1",
+      "description": "Элегантная складная станция одновременной быстрой зарядки для смартфона, смарт-часов и беспроводных наушников.",
+      "price": "4190",
+      "images": [
+        {
+          "id": 146,
+          "image": "https://images.unsplash.com/photo-1622445262464-84b1456045b6?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-24T13:30:00Z"
+    },
+    {
+      "id": 47,
+      "name": "Кожаная куртка Biker Retro Black",
+      "description": "Куртка-косуха из плотной мягкой воловьей кожи с надежной японской металлической фурнитурой YKK.",
+      "price": "21990",
+      "images": [
+        {
+          "id": 147,
+          "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-25T16:00:00Z"
+    },
+    {
+      "id": 48,
+      "name": "Шерстяной шарф Cashmere Blend Ribbed",
+      "description": "Уютный длинный шарф из премиальной смеси кашемира и мериносовой шерсти с фактурной вязкой резинка.",
+      "price": "3490",
+      "images": [
+        {
+          "id": 148,
+          "image": "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-26T08:20:00Z"
+    },
+    {
+      "id": 49,
+      "name": "Джинсы классические Denim Straight 501",
+      "description": "Прямые мужские джинсы из плотного 100% хлопкового селвидж-денима глубокого цвета индиго.",
+      "price": "5490",
+      "images": [
+        {
+          "id": 149,
+          "image": "https://images.unsplash.com/photo-1542272604-780c96856592?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-27T11:45:00Z"
+    },
+    {
+      "id": 50,
+      "name": "Винтажный виниловый проигрыватель RetroVinyl BT",
+      "description": "Проигрыватель пластинок в чемодане с поддержкой скоростей 33/45/78, встроенными динамиками и Bluetooth-приемником.",
+      "price": "8990",
+      "images": [
+        {
+          "id": 150,
+          "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "created_at": "2026-02-28T15:10:00Z"
+    }
+  ]
+}

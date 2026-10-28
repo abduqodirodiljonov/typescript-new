@@ -1,0 +1,72 @@
+{
+  "badge": "Mahsulotlar bazasi · TanStack Query",
+  "title": "Mahsulotlarni boshqarish",
+  "subtitle": "Qidiruv, tezkor saralash, sahifalash va ma'lumotlar kartalari bilan interaktiv jadval.",
+  "stats": {
+    "total_items": "Jami mahsulotlar",
+    "avg_price": "O'rtacha narx",
+    "source": "Manba",
+    "source_fallback": "Mahalliy ma'lumotlar",
+    "source_demo": "Demo rejim",
+    "source_api": "API: localhost:5000"
+  },
+  "server_offline": {
+    "title": "Server http://localhost:5000 vaqtincha ishlamayapti",
+    "desc_prefix": "Siz",
+    "desc_suffix": "buyrug'ini ishga tushirishingiz yoki o'rnatilgan demo ma'lumotlarga o'tishingiz mumkin.",
+    "show_demo": "Demo mahsulotlarni ko'rsatish",
+    "retry": "Qayta so'rov yuborish"
+  },
+  "search": {
+    "placeholder": "Nomi, raqami yoki tavsifi bo'yicha qidiruv...",
+    "clear": "Qidiruvni tozalash"
+  },
+  "sort": {
+    "label": "Saralash:",
+    "default": "Standart",
+    "price_asc": "Narx: o'sish bo'yicha",
+    "price_desc": "Narx: kamayish bo'yicha",
+    "name_asc": "Nomi: A–Z",
+    "name_desc": "Nomi: Z–A"
+  },
+  "refresh": "Yangilash",
+  "refresh_title": "Ma'lumotlarni yangilash",
+  "empty": {
+    "title": "Mahsulotlar topilmadi",
+    "desc": "«{{query}}» so'rovi bo'yicha hech narsa topilmadi. Qidiruv parametrlarini o'zgartirib ko'ring.",
+    "reset": "Filtrlarni tozalash"
+  },
+  "table": {
+    "id": "ID",
+    "product": "Mahsulot",
+    "description": "Tavsifi",
+    "date": "Sana",
+    "status": "Holat",
+    "price": "Narxi",
+    "actions": "Harakatlar",
+    "copy_id": "ID dan nusxa olish",
+    "no_description": "Tavsif mavjud emas",
+    "in_stock": "Mavjud",
+    "quick_view": "Tezkor ko'rish",
+    "price_sort_title": "Narx bo'yicha saralash uchun bosing"
+  },
+  "pagination": {
+    "showing": "Ko'rsatildi",
+    "of": "dan",
+    "products": "mahsulot",
+    "on_page": "Sahifada:",
+    "aria_label": "Jadval sahifalari",
+    "first": "Birinchi sahifa",
+    "prev": "Oldingi",
+    "next": "Keyingi",
+    "last": "Oxirgi sahifa"
+  },
+  "quick_view": {
+    "title": "Tezkor ko'rish",
+    "close": "Yopish",
+    "in_stock": "Mavjud",
+    "description_heading": "Tavsifi",
+    "no_description": "Ushbu mahsulot uchun batafsil tavsif hali qo'shilmagan.",
+    "added_at": "Katalogga qo'shilgan:"
+  }
+}

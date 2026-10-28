@@ -1,0 +1,12 @@
+{
+  "name": "typescript-new-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"./TypeScript new\" run dev",
+    "server": "json-server db.json --port 3000",
+    "server:test": "json-server db-test.json --port 5000",
+    "build": "npm --prefix \"./TypeScript new\" run build",
+    "lint": "npm --prefix \"./TypeScript new\" run lint",
+    "preview": "npm --prefix \"./TypeScript new\" run preview"
+  }
+}

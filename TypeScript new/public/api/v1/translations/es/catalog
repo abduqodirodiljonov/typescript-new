@@ -1,0 +1,9 @@
+{
+  "title": "Catálogo",
+  "show_by": "Mostrar por:",
+  "prev": "Atrás",
+  "next": "Adelante",
+  "product_fallback": "Producto",
+  "edit": "Editar",
+  "delete": "Eliminar"
+}

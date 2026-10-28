@@ -1,0 +1,40 @@
+{
+  "collection_title": "Ваша коллекция",
+  "preview_title": "Предпросмотр коллекции",
+  "form": {
+    "title_placeholder": "Название",
+    "title_aria": "Название товара",
+    "price_placeholder": "Цена",
+    "price_aria": "Цена товара",
+    "submit": "Добавить",
+    "submitting": "Добавляем…"
+  },
+  "messages": {
+    "added": "Добавлено",
+    "add_error": "Не удалось добавить товар",
+    "deleted": "Удалено",
+    "delete_error": "Не удалось удалить товар",
+    "validation_error": "Введите название и корректную цену",
+    "loading": "Загружаем данные…",
+    "server_error": "Не удалось загрузить данные. Проверьте, запущен ли json-server.",
+    "empty": "Пока здесь пусто."
+  },
+  "aria": {
+    "edit_item": "Редактировать {{title}}",
+    "delete_item": "Удалить {{title}}"
+  },
+  "modal": {
+    "title": "Редактировать",
+    "close": "Закрыть",
+    "name_label": "Название",
+    "price_label": "Цена",
+    "description_label": "Описание",
+    "cancel": "Отмена",
+    "save": "Сохранить",
+    "saving": "Сохранение...",
+    "success": "Успешно",
+    "product_updated": "Продукт обновлён",
+    "update_error": "Ошибка при обновлении",
+    "update_fail": "Не удалось обновить"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "brand": "Simple",
+  "nav_home": "Главная",
+  "nav_catalog": "Каталог",
+  "nav_test": "Тест",
+  "nav_about": "О нас",
+  "login": "Вход",
+  "select_language": "Выберите язык:",
+  "actions": {
+    "save": "Сохранить",
+    "saving": "Сохранение...",
+    "cancel": "Отмена",
+    "close": "Закрыть",
+    "edit": "Редактировать",
+    "delete": "Удалить",
+    "refresh": "Обновить",
+    "back": "Назад",
+    "forward": "Вперед",
+    "first_page": "Первая страница",
+    "last_page": "Последняя страница",
+    "reset_filters": "Сбросить фильтры",
+    "retry": "Повторить запрос",
+    "add": "Добавить",
+    "adding": "Добавляем…"
+  },
+  "pagination": {
+    "show_by": "Показывать по:",
+    "per_page": "На странице:",
+    "showing_range": "Показано {{start}}–{{end}} из {{total}} товаров",
+    "aria_nav": "Страницы таблицы",
+    "prev": "Предыдущая",
+    "next": "Следующая"
+  },
+  "status": {
+    "loading": "Загрузка...",
+    "loading_data": "Загружаем данные…",
+    "empty": "Пока здесь пусто.",
+    "in_stock": "В наличии",
+    "error": "Произошла ошибка"
+  },
+  "currency": "₽"
+}

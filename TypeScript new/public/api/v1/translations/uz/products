@@ -1,0 +1,40 @@
+{
+  "collection_title": "Sizning kolleksiyangiz",
+  "preview_title": "Kolleksiyani ko'rish",
+  "form": {
+    "title_placeholder": "Nomi",
+    "title_aria": "Mahsulot nomi",
+    "price_placeholder": "Narxi",
+    "price_aria": "Mahsulot narxi",
+    "submit": "Qo'shish",
+    "submitting": "Qo'shilmoqda…"
+  },
+  "messages": {
+    "added": "Qo'shildi",
+    "add_error": "Mahsulotni qo'shib bo'lmadi",
+    "deleted": "O'chirildi",
+    "delete_error": "Mahsulotni o'chirib bo'lmadi",
+    "validation_error": "Nomini va to'g'ri narxini kiriting",
+    "loading": "Ma'lumotlar yuklanmoqda…",
+    "server_error": "Ma'lumotlarni yuklab bo'lmadi. json-server ishlayotganini tekshiring.",
+    "empty": "Hozircha bu yerda bo'sh."
+  },
+  "aria": {
+    "edit_item": "{{title}} tahrirlash",
+    "delete_item": "{{title}} o'chirish"
+  },
+  "modal": {
+    "title": "Tahrirlash",
+    "close": "Yopish",
+    "name_label": "Nomi",
+    "price_label": "Narxi",
+    "description_label": "Tavsifi",
+    "cancel": "Bekor qilish",
+    "save": "Saqlash",
+    "saving": "Saqlanmoqda...",
+    "success": "Muvaffaqiyatli",
+    "product_updated": "Mahsulot yangilandi",
+    "update_error": "Yangilashda xatolik",
+    "update_fail": "Yangilab bo'lmadi"
+  }
+}
